@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+print("Enter a Number")
+
+number = int(input())
+
+
+

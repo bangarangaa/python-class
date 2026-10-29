@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+
+password="Python is awesome"
+
+userpw=input("Enter a password")
+
+if userpw==password:
+	print("ACCESS GRANTED")
+
+else:
+	print("ACCESS DENIED")
+
+
